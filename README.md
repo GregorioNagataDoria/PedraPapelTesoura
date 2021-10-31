@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Rock, Paper, Scissors
 
 ![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
@@ -117,3 +118,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# PedraPapelTesoura
+Projeto de jogo simples de pedra papel e tesoura , feito usando React.js , design e imagens providos pelo site Frontendmentor.
+>>>>>>> d37380a7edaaa79cf5ab8d8d9455c6f353614a61
